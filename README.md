@@ -16,4 +16,5 @@ despues de eso se borrara la pantalla y nos pedira los datos del segundo alumno
 ![parte3](https://user-images.githubusercontent.com/72112634/95810387-74614b00-0cd6-11eb-9842-28ba362535d0.png)
 
 al final nos mostrara todos los datos obtenidos y hara una comparacion de edades para seleccionar al alumno con mayor edad 
+
 ![PARTE4](https://user-images.githubusercontent.com/72112634/95810389-74f9e180-0cd6-11eb-9394-548af02afec8.png)
