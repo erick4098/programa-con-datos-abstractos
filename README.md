@@ -5,6 +5,7 @@ este prgrama se basa en un tipo de dato abstracto "struct"mediante el lenguaje d
 primero que nada colocamos la libreria pra poder ingresar y mostrar datos en pantalla, por consiguiente inicializamos el tipo de dato abstracto con strcut seguido del nombre y las variables que en este caso solo seran dos, una de tipo entero y otra de tipo caracter.
 despues habrimos el main y declaramos la variable alumnos, en seguida utilizamos el cout y cin para pedir y guardar datos, se utiliza un cls para borrar pantalla y utilizamos un cout para mostrar los datos obtenidos.
 al final utilizamos un if else para poder comparar los datos de los dos alumnos y asi poder saber cual de los dos es el mayor.
+
 ![parte1](https://user-images.githubusercontent.com/72112634/95810390-74f9e180-0cd6-11eb-9c94-2a5cf1b56bb6.png)
 
 
